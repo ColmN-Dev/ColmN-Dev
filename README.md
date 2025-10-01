@@ -1,5 +1,7 @@
 ## Hi there 👋
-# Colm Nolan
+# Colm Nolan 
+
+# Email: colmjcnolan34@gmail.com
 
 Beginner web developer learning the fundamentals of building and maintaining websites.  
 I enjoy working on small projects to improve my understanding of web technologies.
