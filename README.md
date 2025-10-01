@@ -8,7 +8,7 @@ I enjoy working on small projects to improve my understanding of web technologie
 
 - **Frontend**: HTML5, CSS3  
 - **Backend**: PHP  
-- **Database**: MySQL  
+- **Database**: phpMyAdmin  
 - **Version Control**: Git, GitHub  
 
 ## What I'm Working On
