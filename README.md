@@ -9,7 +9,7 @@ I enjoy working on small projects to improve my understanding of web technologie
 ## Skills & Tools
 
 - **Frontend**: HTML5, CSS3  
-- **Backend**: PHP  
+- **Backend**: PHP, MySQL
 - **Database**: phpMyAdmin  
 - **Version Control**: Git, GitHub  
 
