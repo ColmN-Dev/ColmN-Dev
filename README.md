@@ -8,7 +8,8 @@ I enjoy working on small projects to improve my understanding of web technologie
 
 ## Skills & Tools
 
-- **Frontend**: HTML5, CSS3  
+- **Frontend**: HTML5, CSS3
+- **Frameworks**: Astro, Node.js
 - **Backend**: PHP, MySQL
 - **Database**: phpMyAdmin  
 - **Version Control**: Git, GitHub  
