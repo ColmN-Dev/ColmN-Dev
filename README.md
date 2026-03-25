@@ -1,7 +1,7 @@
 ## Hi there 👋  
 # Colm Nolan  
 
-📧 colmjcnolan34@gmail.com  
+#Email: colmjcnolan34@gmail.com  
 
 Aspiring web developer building practical, responsive web applications using modern JavaScript and REST APIs.  
 Focused on creating interactive user experiences and improving performance and code quality through real projects.
