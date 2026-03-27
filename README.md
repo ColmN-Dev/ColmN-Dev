@@ -20,9 +20,9 @@ Focused on creating interactive user experiences and improving performance and c
   🔗 https://colmn-dev.github.io/GameVault/ 
 
   A responsive game discovery web app featuring:  
-  - Dynamic game search via CheapShark REST API  
+  - Dynamic game search via CheapShark REST API and search result filtering
   - Interactive carousel with auto-rotation, manual navigation, and smooth fade transitions  
-  - Four curated genre sections with images, descriptions, and Steam links  
+  - Four curated genre sections with images, descriptions, genre filter and Steam links  
   - Dark mode toggle with localStorage persistence  
   - Newsletter signup form with **regex validation** and fade-out feedback messages  
   - Fully responsive design for mobile, tablet, and desktop  
