@@ -25,6 +25,7 @@ Focused on creating real-world projects that involve API integration, user authe
 ### **GlobalGrub (Full-Stack Flask App)**
 
 🔗 Live: https://globalgrub-tsyf.onrender.com/
+
 🔗 GitHub: https://github.com/ColmN-Dev/GlobalGrub
 
 A full-stack recipe web application:
@@ -43,6 +44,7 @@ A full-stack recipe web application:
 ### **GameVault**
 
 🔗 Live: https://colmn-dev.github.io/GameVault/
+
 🔗 GitHub: https://github.com/ColmN-Dev/GameVault
 
 A responsive game discovery web app:
@@ -59,6 +61,7 @@ A responsive game discovery web app:
 ### **Saykan Combat Sports (Astro Static Project)**
 
 🔗 Live: https://colmn-dev.github.io/Astro-Static-Project/
+
 🔗 GitHub: https://github.com/ColmN-Dev/Astro-Static-Project
 
 A multi-page static website built with Astro:
