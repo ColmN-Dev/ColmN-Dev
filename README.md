@@ -1,6 +1,11 @@
-Hi there 👋  
-Colm Nolan  
-Email: colmjcnolan34@gmail.com  
+##Hi there 👋  
+
+# Colm Nolan  
+**Full-Stack Web Developer**
+
+## colmjcnolan34@gmail.com  
+
+---
 
 Full-stack developer building and deploying practical web applications using Python, Flask, and modern frontend technologies. Focused on backend logic, API integration, authentication systems, and database-driven features, with an emphasis on clean structure and real-world functionality.
 
@@ -19,8 +24,10 @@ Full-stack developer building and deploying practical web applications using Pyt
 
 ## Projects
 
-### GlobalGrub (Full-Stack Flask Application)  
-🔗 Live: https://globalgrub-tsyf.onrender.com/  
+### GlobalGrub (Full-Stack Flask Application)
+
+🔗 Live: https://globalgrub-tsyf.onrender.com/
+
 🔗 GitHub: https://github.com/ColmN-Dev/GlobalGrub  
 
 Full-stack recipe application with authentication and database integration.
@@ -36,7 +43,8 @@ Full-stack recipe application with authentication and database integration.
 ---
 
 ### GameVault  
-🔗 Live: https://colmn-dev.github.io/GameVault/  
+🔗 Live: https://colmn-dev.github.io/GameVault/
+
 🔗 GitHub: https://github.com/ColmN-Dev/GameVault  
 
 Frontend game discovery application powered by external API data.
@@ -50,8 +58,10 @@ Frontend game discovery application powered by external API data.
 
 ---
 
-### Saykan Combat Sports (Astro Static Project)  
-🔗 Live: https://colmn-dev.github.io/Astro-Static-Project/  
+### Saykan Combat Sports (Astro Static Project)
+
+🔗 Live: https://colmn-dev.github.io/Astro-Static-Project/
+
 🔗 GitHub: https://github.com/ColmN-Dev/Astro-Static-Project  
 
 Multi-page static website built using Astro framework.
