@@ -1,89 +1,79 @@
-## Hi there 👋
+Hi there 👋  
+Colm Nolan  
+Email: colmjcnolan34@gmail.com  
 
-# Colm Nolan
-
-## Email: [colmjcnolan34@gmail.com](mailto:colmjcnolan34@gmail.com)
-
-Aspiring full-stack web developer building practical, responsive web applications using both frontend and backend technologies.
-Focused on creating real-world projects that involve API integration, user authentication, and database-driven features.
+Full-stack developer building and deploying practical web applications using Python, Flask, and modern frontend technologies. Focused on backend logic, API integration, authentication systems, and database-driven features, with an emphasis on clean structure and real-world functionality.
 
 ---
 
 ## Skills & Tools
 
-* **Frontend**: HTML5, CSS3, JavaScript
-* **Backend**: Python, Flask
-* **Databases**: SQLite (SQLAlchemy)
-* **APIs**: REST APIs (TheMealDB, CheapShark)
-* **Frameworks & Runtime**: Flask, Astro, Node.js
-* **Version Control**: Git, GitHub
+**Frontend:** HTML5, CSS3, JavaScript  
+**Backend:** Python, Flask  
+**Databases:** SQLite (SQLAlchemy ORM)  
+**APIs:** REST APIs (TheMealDB, CheapShark)  
+**Frameworks & Runtime:** Flask, Astro, Node.js  
+**Version Control:** Git, GitHub  
 
 ---
 
 ## Projects
 
-### **GlobalGrub (Full-Stack Flask App)**
+### GlobalGrub (Full-Stack Flask Application)  
+🔗 Live: https://globalgrub-tsyf.onrender.com/  
+🔗 GitHub: https://github.com/ColmN-Dev/GlobalGrub  
 
-🔗 Live: https://globalgrub-tsyf.onrender.com/
+Full-stack recipe application with authentication and database integration.
 
-🔗 GitHub: https://github.com/ColmN-Dev/GlobalGrub
-
-A full-stack recipe web application:
-
-* Search and filter recipes by name, region, and course
-* User authentication system (signup/login/logout)
-* Secure password hashing with Flask-Bcrypt
-* Favourites system with user-specific saved recipes
-* Database integration using SQLite and SQLAlchemy
-* Dynamic page rendering using Jinja templates
-* Error handling for API requests and edge cases
-* Fully responsive UI with consistent layout design
+- Secure user authentication with password hashing (Flask-Bcrypt) and session management  
+- Search and filtering system using external recipe API (TheMealDB)  
+- User-specific favourites system with persistent storage  
+- Relational database design using SQLAlchemy ORM with SQLite  
+- Clean MVC-style Flask routing and Jinja template rendering  
+- Robust error handling for API failures and edge cases  
+- Responsive UI with consistent layout across devices  
 
 ---
 
-### **GameVault**
+### GameVault  
+🔗 Live: https://colmn-dev.github.io/GameVault/  
+🔗 GitHub: https://github.com/ColmN-Dev/GameVault  
 
-🔗 Live: https://colmn-dev.github.io/GameVault/
+Frontend game discovery application powered by external API data.
 
-🔗 GitHub: https://github.com/ColmN-Dev/GameVault
-
-A responsive game discovery web app:
-
-* Dynamic game search using CheapShark API
-* Interactive carousel with smooth transitions
-* Genre-based browsing with external links
-* Dark mode with localStorage persistence
-* Newsletter form with regex validation
-* Fully responsive design across devices
+- Dynamic game search using CheapShark API  
+- Interactive carousel with smooth UI transitions  
+- Genre-based browsing with external navigation links  
+- Dark mode with persistent localStorage state  
+- Form validation using regex for newsletter input  
+- Fully responsive layout across screen sizes  
 
 ---
 
-### **Saykan Combat Sports (Astro Static Project)**
+### Saykan Combat Sports (Astro Static Project)  
+🔗 Live: https://colmn-dev.github.io/Astro-Static-Project/  
+🔗 GitHub: https://github.com/ColmN-Dev/Astro-Static-Project  
 
-🔗 Live: https://colmn-dev.github.io/Astro-Static-Project/
+Multi-page static website built using Astro framework.
 
-🔗 GitHub: https://github.com/ColmN-Dev/Astro-Static-Project
-
-A multi-page static website built with Astro:
-
-* Semantic layout and structured navigation
-* Responsive design for all screen sizes
-* Image gallery and embedded media
-* Built using Astro components, HTML, and CSS
+- Component-based page structure with reusable layouts  
+- Semantic HTML and structured navigation system  
+- Responsive design optimised for mobile and desktop  
+- Image gallery and embedded media integration  
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-* Strengthening backend development with Flask
-* Improving database design and relationships
-* Refining UI/UX and responsive layouts
-* Expanding full-stack project complexity
+- Strengthening Flask backend architecture and routing structure  
+- Improving relational database design and data modelling  
+- Building more advanced full-stack applications with deeper state management  
+- Refining UI/UX consistency and responsive design patterns  
 
 ---
 
 ## Goals
 
-* Transition into a full-stack developer role
-* Build and deploy complete web applications
-* Continue improving through real-world projects
+- Transition into a full-stack developer role  
+- Build production-ready web applications with scalable architecture  
+- Continue improving through increasingly complex real-world projects
