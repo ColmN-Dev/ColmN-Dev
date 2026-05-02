@@ -1,7 +1,7 @@
-## Hi there 👋  
+# Hi there 👋  
 
 # Colm Nolan  
-**Full-Stack Web Developer**
+# Full-Stack Web Developer
 
 ## colmjcnolan34@gmail.com  
 
