@@ -37,7 +37,7 @@ A book discovery and review platform built to a higher architectural standard th
 - Built a Google Books API integration layer handling search, randomised carousel content, and detail lookups, with fallback handling for missing covers/authors
 - Managed schema changes through Flask-Migrate and SQLAlchemy ORM rather than manual SQL
 - Designed a custom UI system (Cinzel/Roboto type, dark mode, frosted-glass header) and a colour-coded flash message system for user feedback
-- Hardened API key handling after an early exposure incident — rotated the key and enforced `.env` exclusion via `.gitignore`
+- Managed environment variables and API credentials using python-dotenv, keeping secrets out of version control
 
 ### GlobalGrub — Full-Stack Flask Web Application
 
