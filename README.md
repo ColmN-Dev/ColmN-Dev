@@ -12,10 +12,15 @@ Full-stack developer completing a Full-Stack Software Development Diploma at UCD
 ## Skills & Technologies
 
 **Frontend:** HTML5, CSS3, JavaScript, Jinja2
+
 **Backend:** Python, Flask, SQL
+
 **Databases:** PostgreSQL, SQLite, SQLAlchemy ORM, Flask-Migrate
+
 **Frameworks & Runtime:** Flask, Astro, Node.js
+
 **APIs & Integration:** REST APIs, Google Books API, TheMealDB API, CheapShark API
+
 **Tools & Deployment:** Git, GitHub, Render, pgAdmin
 
 ---
