@@ -1,7 +1,7 @@
-# Colm Nolan
-## Full-Stack Web Developer
+# Colm Nolan | Full-Stack Web Developer
+---
 
-## Contact
+# Contact
 
 Email: colmjcnolan34@gmail.com
 
