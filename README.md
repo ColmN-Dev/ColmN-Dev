@@ -4,6 +4,7 @@
 ## Contact
 
 📧 colmjcnolan34@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/Colm-Nolan-98b85424b/
 
 ---
