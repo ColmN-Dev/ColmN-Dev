@@ -47,8 +47,10 @@ A full-stack book discovery and review platform built with Flask, PostgreSQL, an
 - Implemented Flask application factory pattern with Blueprint-based routing to improve maintainability and separation of concerns
 - Designed and managed a PostgreSQL relational schema supporting users, books, personal libraries, and reviews
 - Integrated the Google Books API with search, pagination, book details, retry handling, and fallback behaviour
+- Implemented caching and retry logic to handle third-party API rate limits and intermittent failures
 - Developed secure authentication workflows using Flask-Login and Flask-Bcrypt
-- Built CRUD functionality for saved books, reviews, and account management
+- Built CRUD functionality for saved books and personal libraries
+- Implemented a review system with star ratings, ownership checks, and unique constraints
 - Managed database evolution using SQLAlchemy ORM and Flask-Migrate
 - Configured production deployment using environment variables and Render hosting
 
