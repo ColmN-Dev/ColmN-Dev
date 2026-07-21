@@ -11,7 +11,9 @@ GitHub: https://github.com/ColmN-Dev
 
 ---
 
-Full-stack developer specialising in Python-based web applications. Experienced building and deploying database-driven applications using Flask, PostgreSQL, SQLAlchemy, REST APIs, and modern frontend technologies. Comfortable developing applications end-to-end, including architecture design, database modelling, authentication, API integration, deployment, and user-focused interface development.
+Full-stack developer specialising in Python-based web applications. Experienced building and deploying database-driven applications using Flask, PostgreSQL, SQLAlchemy, REST APIs, and modern frontend technologies.
+
+Experienced developing applications end-to-end, including application architecture, relational database design, authentication systems, API integrations, automated testing, continuous integration, deployment, and responsive user interfaces.
 
 Currently completing a Full-Stack Software Development Diploma at UCD Professional Academy.
 
@@ -23,22 +25,25 @@ Currently completing a Full-Stack Software Development Diploma at UCD Profession
 Python, JavaScript, SQL, HTML5, CSS3
 
 **Frontend:**  
-Jinja2, Responsive Design, DOM Manipulation, Component-Based Architecture
+Jinja2, Responsive Design, DOM Manipulation, JavaScript Event Handling, Component-Based Architecture
 
 **Backend:**  
-Flask, REST APIs, Authentication Systems, CRUD Applications
+Flask, REST APIs, Application Factory Pattern, Blueprint Architecture, Authentication Systems, CRUD Applications
 
 **Databases:**  
-PostgreSQL, SQLite, SQLAlchemy ORM, Flask-Migrate
+PostgreSQL, SQLite, SQLAlchemy ORM, Flask-Migrate, Alembic, Relational Database Design
 
 **Frameworks & Libraries:**  
-Flask, Astro, Node.js
+Flask, Astro, Node.js, Flask-Login, Flask-Bcrypt, Pytest
 
 **APIs & Integration:**  
-Google Books API, TheMealDB API, CheapShark API
+Google Books API, TheMealDB API, CheapShark API, REST API Integration
+
+**Testing & CI:**  
+Pytest, Flask Test Client, Test Databases, GitHub Actions Continuous Integration
 
 **Tools & Deployment:**  
-Git, GitHub, Render, pgAdmin, Environment Configuration
+Git, GitHub, Render, pgAdmin, Gunicorn, Environment Configuration, VS Code
 
 ---
 
@@ -48,16 +53,20 @@ Git, GitHub, Render, pgAdmin, Environment Configuration
 
 🔗 [Live Demo](https://bibliotech-ifum.onrender.com) · 🔗 [GitHub](https://github.com/ColmN-Dev/BiblioTech)
 
-A full-stack book discovery and review platform built with Flask, PostgreSQL, and SQLAlchemy. Designed with modular architecture, authentication, API integration, and relational database design.
+A full-stack book discovery and review platform built with Flask, PostgreSQL, SQLAlchemy, and the Google Books API. Designed using modular architecture, relational database modelling, authentication, automated testing, and continuous integration.
 
-- Structured the application using Flask's factory pattern and Blueprint routing for separation of concerns
-- Designed a PostgreSQL relational schema supporting users, books, personal libraries, and reviews
-- Integrated the Google Books API with search, pagination, detail lookups, caching, retry logic, and fallback handling
-- Implemented authentication using Flask-Login and Flask-Bcrypt
-- Built CRUD functionality for personal libraries and user reviews
-- Added review ownership checks and database constraints to prevent duplicate reviews
-- Managed database migrations using SQLAlchemy ORM and Flask-Migrate
-- Deployed the application using Render with environment-based configuration
+- Structured the application using Flask's application factory pattern and Blueprint routing for maintainability and separation of concerns
+- Designed a PostgreSQL relational database supporting users, books, personal libraries, and reviews
+- Implemented authentication using Flask-Login, Flask-Bcrypt, and secure password hashing
+- Built user library CRUD functionality allowing users to save and remove books
+- Developed a review system supporting creation, editing, deletion, ownership validation, and duplicate prevention
+- Integrated the Google Books API with search, autocomplete, pagination, caching, retry handling, and fallback processing
+- Created reusable helper functions to separate API logic from route handling
+- Implemented database migrations using SQLAlchemy ORM and Flask-Migrate
+- Added custom 404 and 500 error handling pages
+- Developed automated tests using Pytest with a dedicated PostgreSQL test database
+- Implemented GitHub Actions continuous integration to automatically run test suites
+- Deployed the application using Render with production environment configuration
 
 ---
 
@@ -70,7 +79,8 @@ A recipe discovery platform providing API-powered search, authentication, and pe
 - Implemented secure authentication with Flask-Bcrypt password hashing
 - Integrated TheMealDB REST API for dynamic recipe discovery
 - Created a user-specific favourites system using SQLAlchemy and SQLite
-- Added validation and error handling for missing or unreliable API data
+- Developed CRUD functionality for saved recipes
+- Added validation and error handling for missing or unreliable API responses
 - Deployed with production configuration using Render
 
 ---
@@ -82,7 +92,7 @@ A recipe discovery platform providing API-powered search, authentication, and pe
 A responsive game discovery application consuming live data from the CheapShark API.
 
 - Built dynamic search and filtering functionality using JavaScript
-- Implemented persistent user preferences with localStorage
+- Implemented persistent user preferences using localStorage
 - Created responsive layouts across desktop and mobile devices
 - Added client-side validation and interactive UI behaviour
 
@@ -102,10 +112,10 @@ A responsive marketing website built using Astro and reusable components.
 
 # Current Development
 
-Expanding backend development skills through Django, focusing on framework architecture, ORM patterns, authentication, and scalable web application development.
+Continuing to expand backend development skills through Django, focusing on framework architecture, ORM patterns, authentication systems, testing practices, and scalable web application development.
 
 ---
 
 # Career Objective
 
-Seeking a junior full-stack developer position where I can contribute to real-world software projects while continuing to develop strong engineering practices in backend development, databases, and modern web technologies.
+Seeking a junior full-stack developer position where I can contribute to real-world software projects while continuing to develop strong engineering practices in backend development, databases, testing, and modern web technologies.
