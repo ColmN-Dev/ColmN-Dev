@@ -3,7 +3,9 @@
 
 # Contact
 
-Email: colmjcnolan34@gmail.com
+Email: colm.web.dev@gmail.com
+
+Personal Email: colmjcnolan34@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/Colm-Nolan-98b85424b/
 
