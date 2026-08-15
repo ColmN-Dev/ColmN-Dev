@@ -1,4 +1,19 @@
 # Colm Nolan | Full-Stack Web Developer
+
+---
+
+# Current Development
+
+Currently completing a Full-Stack Software Development Diploma at UCD Professional Academy.
+
+Continuing to expand backend development skills through Django, focusing on framework architecture, ORM patterns, authentication systems, database design, API integration, deployment, and scalable web application development.
+
+---
+
+# Career Objective
+
+Seeking a junior full-stack developer position where I can contribute to real-world software projects while continuing to develop strong engineering practices in backend development, databases, testing, and modern web technologies.
+
 ---
 
 # Contact
@@ -13,11 +28,9 @@ GitHub: https://github.com/ColmN-Dev
 
 ---
 
-Full-stack developer specialising in Python-based web applications. Experienced building and deploying database-driven applications using Flask, PostgreSQL, SQLAlchemy, REST APIs, and modern frontend technologies.
+Full-stack developer specialising in Python-based web applications. Experienced building and deploying database-driven applications using Flask, Django, PostgreSQL, SQLAlchemy, REST APIs, and modern frontend technologies.
 
-Experienced developing applications end-to-end, including application architecture, relational database design, authentication systems, API integrations, automated testing, continuous integration, deployment, and responsive user interfaces.
-
-Currently completing a Full-Stack Software Development Diploma at UCD Professional Academy.
+Experienced developing applications end-to-end, including application architecture, relational database design, authentication systems, API integrations, caching, automated testing, continuous integration, deployment, responsive user interfaces, and external service integration.
 
 ---
 
@@ -27,29 +40,50 @@ Currently completing a Full-Stack Software Development Diploma at UCD Profession
 Python, JavaScript, SQL, HTML5, CSS3
 
 **Frontend:**  
-Jinja2, Responsive Design, DOM Manipulation, JavaScript Event Handling, Component-Based Architecture
+Django Templates, Jinja2, Bootstrap, Responsive Design, DOM Manipulation, JavaScript Event Handling, Component-Based Architecture
 
 **Backend:**  
-Flask, REST APIs, Application Factory Pattern, Blueprint Architecture, Authentication Systems, CRUD Applications
+Django, Flask, REST APIs, Django ORM, Application Factory Pattern, Blueprint Architecture, Authentication Systems, CRUD Applications
 
 **Databases:**  
-PostgreSQL, SQLite, SQLAlchemy ORM, Flask-Migrate, Alembic, Relational Database Design
+PostgreSQL, SQLite, SQLAlchemy ORM, Django ORM, Flask-Migrate, Alembic, Relational Database Design
 
 **Frameworks & Libraries:**  
-Flask, Astro, Node.js, Flask-Login, Flask-Bcrypt, Pytest
+Django, Flask, Astro, Node.js, Flask-Login, Flask-Bcrypt, Pytest
 
 **APIs & Integration:**  
-Google Books API, TheMealDB API, CheapShark API, REST API Integration
+Currents API, Google Books API, TheMealDB API, CheapShark API, REST API Integration, Cloudinary
 
 **Testing & CI:**  
 Pytest, Flask Test Client, Test Databases, GitHub Actions Continuous Integration
 
 **Tools & Deployment:**  
-Git, GitHub, Render, pgAdmin, Gunicorn, Environment Configuration, VS Code
+Git, GitHub, Render, PostgreSQL, pgAdmin, Gunicorn, WhiteNoise, Cloudinary, Environment Configuration, VS Code
 
 ---
 
 # Projects
+
+## NodeNexus — Full-Stack Django Application
+
+🔗 [Live Demo](https://nodenexus-htnu.onrender.com) · 🔗 [GitHub](https://github.com/ColmN-Dev/NodeNexus)
+
+A full-stack technology news aggregation platform built with Django, PostgreSQL, Bootstrap, custom CSS, and vanilla JavaScript. The application aggregates technology news from the Currents API and provides category browsing, search, authentication, user profiles, bookmarks, and responsive interfaces.
+
+- Structured the application using separate Django applications for core site functionality, news aggregation, and user accounts
+- Integrated the Currents API with category-based news, global search, live autocomplete, filtering, caching, and pagination
+- Built a dedicated service layer to separate external API communication and caching from Django views
+- Designed PostgreSQL models using Django ORM for users, profiles, articles, and bookmarks
+- Implemented Django authentication including registration, login, logout, password validation, password reset, and password changes
+- Built user profile management with editable account information, preset profile pictures, and custom Cloudinary uploads
+- Implemented article bookmarking with user-specific saved articles and bookmark removal
+- Developed responsive interfaces using Bootstrap, custom CSS, and vanilla JavaScript
+- Added dark/light theme support, mobile navigation, responsive article carousels, autocomplete, and interactive profile image selection
+- Implemented content filtering and deduplication to improve the quality of external API results
+- Deployed using Render, Gunicorn, PostgreSQL, WhiteNoise, and Cloudinary
+- Used environment variables for API keys, database credentials, email configuration, Cloudinary credentials, and Django secrets
+
+---
 
 ## BiblioTech — Full-Stack Flask Application
 
@@ -112,12 +146,60 @@ A responsive marketing website built using Astro and reusable components.
 
 ---
 
-# Current Development
+# NodeNexus — Key Technical Areas
 
-Continuing to expand backend development skills through Django, focusing on framework architecture, ORM patterns, authentication systems, testing practices, and scalable web application development.
+The NodeNexus project demonstrates progression from the Flask-based applications into a larger Django application architecture.
+
+### Backend Development
+
+- Django multi-app architecture
+- Django ORM and PostgreSQL
+- Django authentication and sessions
+- Custom Django forms and validation
+- Service-layer architecture
+- External API integration
+- API response caching
+- Article filtering and deduplication
+
+### Frontend Development
+
+- Django Templates
+- Bootstrap
+- Custom CSS
+- Vanilla JavaScript
+- Responsive layouts
+- Dark/light themes
+- Dynamic autocomplete
+- Mobile navigation
+- Interactive profile picture selection
+- Article carousels
+
+### Database & User Features
+
+- PostgreSQL
+- Django migrations
+- User profiles
+- Article storage
+- User-specific bookmarks
+- Profile image management
+- Cloudinary media storage
+
+### Deployment
+
+- Render
+- Gunicorn
+- WhiteNoise
+- PostgreSQL
+- Cloudinary
+- Environment variables
+- Production static file handling
 
 ---
 
-# Career Objective
+# Development Progression
 
-Seeking a junior full-stack developer position where I can contribute to real-world software projects while continuing to develop strong engineering practices in backend development, databases, testing, and modern web technologies.
+The projects demonstrate progression from frontend JavaScript development into full-stack Flask applications and then into a larger Django application.
+
+**GameVault → GlobalGrub → BiblioTech → NodeNexus**
+
+This progression has involved moving from client-side API consumption to database-backed applications, authentication, relational database design, automated testing, CI, external service integration, deployment, and more structured backend architecture.
