@@ -22,7 +22,7 @@ Email: colm.web.dev@gmail.com
 
 Personal Email: colmjcnolan34@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/Colm-Nolan-98b85424b/
+LinkedIn: https://www.linkedin.com/in/colm-nolan587/
 
 GitHub: https://github.com/ColmN-Dev
 
