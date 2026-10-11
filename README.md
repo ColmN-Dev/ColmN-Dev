@@ -22,7 +22,7 @@ Seeking a junior full-stack developer position where I can contribute to real-wo
 
 # Contact
 
-Email: colm.web.dev@gmail.com
+Email: colmndev@gmail.com
 
 Personal Email: colmjcnolan34@gmail.com
 
